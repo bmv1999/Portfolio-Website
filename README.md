@@ -12,6 +12,6 @@ Reference for Learning and Templates:
 For icons: https://fontawesome.com/
 
 Deployed on Vercel:
-https://portfolio-website-8joofbjgc-benjamins-projects-bd094fa0.vercel.app/index.html
+https://portfolio-website-8joofbjgc-benjamins-projects-bd094fa0.vercel.app
 
 
