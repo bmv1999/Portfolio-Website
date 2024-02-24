@@ -1,0 +1,93 @@
+body{
+    background-color: white;
+    margin: 0px;
+}
+main{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: verdana, arial;
+    color: black;
+
+}
+
+h1{
+    text-align: center;
+    font-family: verdana, arial;
+    color: black;
+    background-color: rgb(165, 165, 165);
+    margin: 0px;
+    padding: 25px;
+}
+
+p1{
+    width: 50%;
+    margin-left: 20px;
+    margin-top: 250px;
+    font-size: xx-large;
+    text-align: left;
+    float: left
+}
+
+img_section1{
+    float: left;
+    margin-top: 10px;
+}
+img_section2{
+    float: left;
+    margin-top: 10px;
+}
+img_section3{
+    padding-top: 200px;
+    float: left;
+    margin-top: 50px;
+    padding-right: 300px;
+}
+
+about_sec{
+    width: 55%;
+    margin-left: 20px;
+    text-align: left;
+    float: left
+}
+
+.links ul{
+    font-size: xxx-large;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.links a{
+    padding-left: 15px;
+    padding-right: 15px;
+    color:rgb(26, 16, 165);
+    
+}
+.links li{
+    float: left; 
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(26, 16, 165);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(23, 23, 114);
+}
+.navbar li{
+    float: left;
+}
+
+@media screen and (max-width: 600px){
+    
+}
